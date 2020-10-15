@@ -5,6 +5,8 @@
 {
   "imgid": number,
   "filename: string.
-  "path": string
+  "path": string,
+  "author": string,
+  "url": string
 }
 ```
